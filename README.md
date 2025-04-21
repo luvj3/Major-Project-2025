@@ -2,7 +2,7 @@
 A streamlit app to analyze your whatsapp chats
 
 Demo Link: https://whatsapp-chat-analyzer-luvjain3.streamlit.app/
-Image : 
+
 
 # WhatsApp Chat Analyzer
 

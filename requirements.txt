@@ -7,3 +7,4 @@ pandas
 emoji
 plotly
 plotly.express
+nltk

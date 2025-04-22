@@ -8,3 +8,4 @@ emoji
 plotly
 plotly.express
 nltk
+xlsxwriter
